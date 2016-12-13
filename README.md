@@ -16,4 +16,3 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 The output of the 5th step is called `tidy_data.txt`, and uploaded in this repo.
 
-The end result is shown in the file tidy_data.txt.
